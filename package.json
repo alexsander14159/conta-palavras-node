@@ -1,0 +1,21 @@
+{
+  "name": "estudando_git",
+  "version": "1.0.0",
+  "description": "Um script simples de linha de comando (CLI) construído em Node.js para ler arquivos de texto, contar a ocorrência de cada palavra e identificar palavras duplicadas ou mais frequentes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexsander14159/conta-palavras-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/alexsander14159/conta-palavras-node/issues"
+  },
+  "homepage": "https://github.com/alexsander14159/conta-palavras-node#readme"
+}
